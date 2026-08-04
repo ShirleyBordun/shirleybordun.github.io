@@ -33,7 +33,6 @@ html {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-/* Optional subtle glitch effect for headings if desired */
 @keyframes pulse-slow {
     0%, 100% { opacity: 1; }
     50% { opacity: 0.6; }
