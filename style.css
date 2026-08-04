@@ -1,0 +1,44 @@
+/* Custom Styles for Shirley Bordun's Portfolio & 404 Experiment */
+
+/* Smooth Scrolling & Selection Styling */
+html {
+    scroll-behavior: smooth;
+}
+
+::selection {
+    background-color: #059669;
+    color: #0a0f1d;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0a0f1d;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #1f2937;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #059669;
+}
+
+/* Terminal Glow & Scanline Effects */
+.font-mono {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+/* Optional subtle glitch effect for headings if desired */
+@keyframes pulse-slow {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.6; }
+}
+
+.animate-pulse-slow {
+    animation: pulse-slow 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
