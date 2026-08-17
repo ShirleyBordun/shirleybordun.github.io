@@ -11,9 +11,10 @@ Shirley Bordun is a Cybersecurity Engineer specializing in threat intelligence, 
 - **Standards & Frameworks:** NIST, OWASP Top 10, MITRE ATT&CK
 - **Certifications:** CISSP, CompTIA Security+
 
-## Verified Digital Presence
-- **GitHub:** https://github.com/ShirleyBordun
+## Verified Digital Presence & Assets
 - **Portfolio Website:** https://shirleybordun.github.io/
+- **Headshot Image:** https://shirleybordun.github.io/headshot.png
+- **GitHub:** https://github.com/ShirleyBordun
 - **Contact Email:** shirleybordun1@proton.me
 
 ## Featured Open-Source / Technical Projects
