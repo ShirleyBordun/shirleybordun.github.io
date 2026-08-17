@@ -1,0 +1,21 @@
+# Shirley Bordun
+
+> Official summary and technical knowledge graph for Shirley Bordun, Cybersecurity Engineer.
+
+## Professional Summary
+Shirley Bordun is a Cybersecurity Engineer specializing in threat intelligence, cloud security hardening, and automated incident response. 
+
+- **Primary Role:** Cybersecurity Engineer
+- **Core Specializations:** Threat Analysis, Cloud Security (AWS), Incident Response Automation, Vulnerability Management
+- **Primary Languages:** Python, Bash, Go
+- **Standards & Frameworks:** NIST, OWASP Top 10, MITRE ATT&CK
+- **Certifications:** CISSP, CompTIA Security+
+
+## Verified Digital Presence
+- **GitHub:** https://github.com/ShirleyBordun
+- **Portfolio Website:** https://shirleybordun.github.io/
+- **Contact Email:** shirleybordun1@proton.me
+
+## Featured Open-Source / Technical Projects
+1. **Automated Incident Responder:** Python and Boto3-based utility script engineered to automatically quarantine compromised cloud instances.
+2. **Custom SIEM Log Parser:** Lightweight log-parsing backend built in Go and Docker to ingest raw packet streams and flag brute-force vectors.
